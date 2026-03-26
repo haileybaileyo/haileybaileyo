@@ -15,7 +15,8 @@
 
 - 🎓 **Sookmyung Women's University** — B.E. in Artificial Intelligence Engineering (4th year)
 - 🔬 Research interests: **Reinforcement Learning · Computer Vision · Multimodal AI · Explainable AI**
-  
+- 🤖 Passionate about building AI systems that are not only powerful, but interpretable and reliable
+- 🌱 Currently exploring the intersection of **RL and real-world decision making**
 - 📫 oliviarella@sookmyung.ac.kr
 
 ---
@@ -37,8 +38,8 @@
 
 | Type | Title | Period |
 |------|-------|--------|
-| 🎓 Education | Sookmyung Women's University, AI Engineering | 2022.03 ~ |
-|  |  |  |
+| 🎓 Education | Sookmyung Women's University, AI Engineering | 2023.03 ~ |
+| 🏫 Education | Hyundai High School | 2019.03 ~ 2022.02 |
 
 ---
 
@@ -46,7 +47,7 @@
 
 | Title | Description | Period |
 |-------|-------------|--------|
-|  |  |  |
+| 📞 [Genti](https://github.com/team2321) | AI-based real-time verbal abuse response support service for call center agents (Lead & AI/ML) |  |
 |  |  |  |
 
 ---
