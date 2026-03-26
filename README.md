@@ -15,8 +15,7 @@
 
 - 🎓 **Sookmyung Women's University** — B.E. in Artificial Intelligence Engineering (4th year)
 - 🔬 Research interests: **Reinforcement Learning · Computer Vision · Multimodal AI · Explainable AI**
-- 🤖 Passionate about building AI systems that are not only powerful, but interpretable and reliable
-- 🌱 Currently exploring the intersection of **RL and real-world decision making**
+  
 - 📫 oliviarella@sookmyung.ac.kr
 
 ---
