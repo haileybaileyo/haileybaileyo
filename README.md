@@ -13,10 +13,51 @@
 
 ## 🧠 About Me
 
-- 🔬 I'm currently working on **AI / Machine Learning research**
-- 🌱 Always learning something new in the world of deep learning & AI
-- 💡 Interested in building intelligent systems that make a difference
-- 📫 How to reach me: **haileybaileyo@github**
+- 🎓 **Sookmyung Women's University** — B.E. in Artificial Intelligence Engineering (4th year)
+- 🔬 Research interests: **Reinforcement Learning · Computer Vision · Multimodal AI · Explainable AI**
+- 🤖 Passionate about building AI systems that are not only powerful, but interpretable and reliable
+- 🌱 Currently exploring the intersection of **RL and real-world decision making**
+- 📫 oliviarella@sookmyung.ac.kr
+
+---
+
+## 📝 Blog
+
+<div>
+  <a href="https://velog.io/@haileybaileyo/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Vimeo&logoColor=white"/>
+  </a>
+  <a href="https://blog.naver.com/olivia_rella">
+    <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 🏫 Education & Experience
+
+| Type | Title | Period |
+|------|-------|--------|
+| 🎓 Education | Sookmyung Women's University, AI Engineering | 2022.03 ~ |
+|  |  |  |
+
+---
+
+## 🔬 Research & Projects
+
+| Title | Description | Period |
+|-------|-------------|--------|
+|  |  |  |
+|  |  |  |
+
+---
+
+## 🏆 Activities & Awards
+
+| Title | Organization | Period |
+|-------|-------------|--------|
+|  |  |  |
+|  |  |  |
 
 ---
 
