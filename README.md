@@ -2,10 +2,6 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+trustworthy+survival+models+for+WSI+pathology;Researching+uncertainty+quantification+%40+UNLV+DataX+Lab;C-index+alone+isn't+enough+%E2%80%94+multi-axis+evaluation+matters;4th-year+AI+Engineering+%40+Sookmyung+Women's+University" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/heejae-kwon-hailey/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
