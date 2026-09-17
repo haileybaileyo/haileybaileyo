@@ -24,8 +24,8 @@
 | Type | Title | Period |
 |------|-------|--------|
 | 🎓 Education | Sookmyung Women's University — B.S. in AI Engineering, Big Data Convergence Major | 2023.03 ~ 2027.02 (Expected) |
-| 🔬 Research | International Research Program, University of Nevada, Las Vegas — Visiting Undergraduate Researcher, advised by Dr. Mingon Kang | 2026.06 ~ 2026.07 |
-| 🔬 Research | Sookmyung Intelligent System Lab — Undergraduate Research Intern, advised by Dr. Yujin Lim | 2025.03 ~ 2026.08 |
+| 🔬 Research | International Research Program, University of Nevada, Las Vegas — Visiting Undergraduate Researcher | 2026.06 ~ 2026.07 |
+| 🔬 Research | Sookmyung Intelligent System Lab — Undergraduate Research Intern | 2025.03 ~ 2026.08 |
 
 ---
 
