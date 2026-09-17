@@ -48,8 +48,6 @@ Whole-Slide Imaging (WSI) → Feature Extraction (UNI / UNI v2) → Attention-ba
 |---|---|---|
 | Pest24 데이터셋 기반 소형 해충 탐지의 다축 성능 분석 연구 | ASK 2026 | 🥈 Silver Award |
 | LLM 기반 기하학적 진단을 통한 연합학습 제어 변수 조정 기법 연구 | ASK 2026 | Presented |
-| WSI Survival: A Multi-Axis Evaluation (solo) | KIPS KTSDE | Under revision |
-| Uncertainty-Aware Histopathology Survival Analysis | DLB2H 2026 (10th Workshop, w/ Dr. Mingon Kang) | In preparation |
 
 ---
 
